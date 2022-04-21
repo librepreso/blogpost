@@ -1,3 +1,4 @@
 Esta es la historia que tuve que escribir en vim porque no se porque carajos no me funciona vs code. no se que putas he hecho que no me abre el file directamente desde la terminal como lo hacia antes. Igual, total, ya me acostumbre a usar la terminal asi que vale verga, pero siento que es algo que tengo que resolver.
 Lo que si que va a ser util vs code porque alli se puede vincular con el repositorio. maldita sea.
 Al menos por ahora todo bien, he ido avanzando en el curso.
+Error arreglado.
